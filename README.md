@@ -45,9 +45,3 @@ La refonte visait à résoudre plusieurs frustrations et obstacles rencontrés p
 9. **Confirmation de commande** :  
    Un message de confirmation apparaît et l'utilisateur est redirigé vers la page d'accueil.
 
----
-
-## **Prototype interactif**
-
-Vous pouvez explorer le prototype interactif via le lien suivant :  
-➡️ [Lien vers le prototype Figma](lien-du-prototype)
