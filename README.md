@@ -39,9 +39,12 @@ La refonte visait à résoudre plusieurs frustrations et obstacles rencontrés p
 7. **Connexion** :  
    Si non connecté, il se connecte ou crée un compte pour poursuivre.
 
-8. **Paiement** :  
+9. **Paiement** :  
    Le client choisit le paiement par carte bancaire.
 
-9. **Confirmation de commande** :  
+10. **Confirmation de commande** :  
    Un message de confirmation apparaît et l'utilisateur est redirigé vers la page d'accueil.
 
+---
+## **Lien Prototype**
+https://www.figma.com/proto/hltFX3cCLAdgx8ztxbIPfN/UX---Design?node-id=4-37&t=yTFnDgyJm36UQ5Lm-1&starting-point-node-id=4%3A37
